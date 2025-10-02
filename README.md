@@ -48,9 +48,9 @@ Frontend runs on: http://localhost:3000
 
 ### 4. CI/CD with Jenkins
 The project includes a Jenkinsfile and pipeline that:
-a. Pulls the latest code from GitHub
-b. Builds Docker images for frontend & backend
-c. Pushes images to DockerHub
-d. Deploys updated containers automatically
+- Pulls the latest code from GitHub
+- Builds Docker images for frontend & backend
+- Pushes images to DockerHub
+- Deploys updated containers automatically
 
 
